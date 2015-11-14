@@ -30,9 +30,7 @@
     "raspi"
   ],
 
-  "scripts": {
-    "install": "./scripts/install-i2c.sh"
-  },
+  "scripts": {},
 
   "devDependencies": {
     "sinon-chai": "~2.4.0",
